@@ -1,0 +1,21 @@
+# Java build files
+/bin/
+/build/
+/target/
+*.class
+*.jar
+*.war
+
+# Eclipse project files
+*.classpath
+*.project
+.settings/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
